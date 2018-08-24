@@ -18,3 +18,7 @@ Math as identified by Siraj will be broken up into three topics.
 - Algorithms
 
 
+## Notes
+
+Here (Linear-Algebra/MIT-1.md) are my notes for Linear Algebra for the MIT curriculum.
+
