@@ -1,3 +1,7 @@
+
+Before taking this course, do PreCalculus [Intro to Matrices by Khan Academy](https://www.khanacademy.org/math/precalculus/precalc-matrices#intro-to-matrices).
+
+
 # MIT Lecture 1
 
 This lecture is the first introduction to the course. At the onset we look at two equations in a system of equations:
